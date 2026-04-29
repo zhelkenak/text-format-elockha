@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>первые стихи</title>
 </head>
-<body background="шары.jpg" bgcolor="#f0f0f0">
+<body background="шары.jpeg" bgcolor="#f0f0f0">
 
     <div align="center">
         <font face="Arial Black" color="#ff0000" size="6">
