@@ -1,5 +1,5 @@
 <html><title>первые стихи</title>
-<body background="шары.jpeg"
+<body background="шары.jpg"
 <p align=center>
 <font face="Arial Black"><font
 color="#ff0000"><big> <marquee>Привет!Это
